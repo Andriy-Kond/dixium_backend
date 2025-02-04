@@ -153,4 +153,4 @@ dist
 # misc
 .DS_Store
 
-gitignore
+secrets
